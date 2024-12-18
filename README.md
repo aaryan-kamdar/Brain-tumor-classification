@@ -29,6 +29,8 @@ The dataset is curated to include the following classes:
 - Pituitary tumor
 - No tumor
 
+**Dataset Access**: The dataset can be downloaded from a [Google Drive link](#).
+
 ## Models
 Several state-of-the-art CNN architectures were used in this project:
 
@@ -67,12 +69,8 @@ The models were evaluated using the following metrics:
    ```bash
    git clone https://github.com/yourusername/brain-tumor-classification.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset using the provided `dataset_download.py` script or manually from the sources.
-4. Run the training script:
+2. Download the dataset from the provided [Google Drive link](#).
+3. Run the training script:
    ```bash
    jupyter notebook brain_tumor_classification.ipynb
    ```
