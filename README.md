@@ -69,7 +69,7 @@ The models were evaluated using the following metrics:
    ```bash
    git clone https://github.com/yourusername/brain-tumor-classification.git
    ```
-2. Download the dataset from the provided [Google Drive link](#).
+2. Download the dataset from the provided [Google Drive link](https://drive.google.com/drive/folders/1RrHg0kMp3x0RBh3skBntGGTtvcvK9P1M?usp=sharing).
 3. Run the training script:
    ```bash
    jupyter notebook brain_tumor_classification.ipynb
