@@ -29,7 +29,7 @@ The dataset is curated to include the following classes:
 - Pituitary tumor
 - No tumor
 
-**Dataset Access**: The dataset can be downloaded from a [Google Drive link](#).
+**Dataset Access**: The dataset can be downloaded from a [Google Drive link](https://drive.google.com/drive/folders/1RrHg0kMp3x0RBh3skBntGGTtvcvK9P1M?usp=sharing).
 
 ## Models
 Several state-of-the-art CNN architectures were used in this project:
