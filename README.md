@@ -86,5 +86,4 @@ The models were evaluated using the following metrics:
 - Pereira, P., et al. "Automated Classification of Brain Tumors Using Transfer Learning on Pretrained CNN Models."
 - Islam, S., et al. "Brain Tumor Segmentation in MRI Using a Cascaded U-Net Architecture."
 
-For a complete list of references, see the project report.
 
